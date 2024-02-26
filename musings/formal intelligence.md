@@ -1,4 +1,4 @@
-# On Intelligence 
+# Intelligence Formally
 ## Abstract
 This article presents a framework for formalizing the concept of intelligence mathematically. 
 - Inherent value of formalizing intelligence 
