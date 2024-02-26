@@ -3,7 +3,7 @@
 ## Motivation 
 - State the single responsibility of this article
 - Provide "tests" for acessing success
-## Background 
+## Background (optional)
 - Discuss the prior art 
 ## Proposal 
 ## Results 
