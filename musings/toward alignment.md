@@ -2,7 +2,7 @@
 By Abe Dillon
 
 ## Abstract 
-In this article, I propose a path to achieve alignment among intelligent systems based upon a rigorous formalization of the phenomenon of life in terms of information theory. 
+In this article, I propose a path to achieve alignment with living systems based on a rigorous formalization of life as an information-theoretic phenomenon.
 
 I argue that the problem of aligning the goal of one agent to another extends well beyond the narrow scope of artificial agents and that misalignment among humans, human collectives (states, corporations, economic systems, etc.), and other organisms poses an existential threat to human society of roughly the same magnitude (severe) and urgency (very) regardless of any further development of artificial intelligence. I claim that misalignment among humans stems largely from variations in the objective function of each human which imperfectly approximates some ideal objective and that achieving alignment requires deriving said ideal objective. In order to derive such an objective (what a human ought to ought to do) one must find a way to circumvent Hume's law. I reason that abiogenesis must be what I call a "trans-Humean" process (pardon the tongue-in-cheek naming) since, by definition, it gives rise to goal-driven agents (organisms) where before there were none. I then propose that the goal of an organism approximates an ideal goal which can be derived from a formalization of the phenomenon of life.
 
