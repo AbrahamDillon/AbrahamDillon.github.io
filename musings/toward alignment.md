@@ -2,16 +2,13 @@
 By Abe Dillon
 
 # Abstract 
-Solving the so-called "outer alignment problem" (refered to hence as simply "alignment") is a critical step in mitigating the greatest existential risks currently facing human civilization including environmental degredation, war, and artificial intelligence. I propose a path to achieve alignment with living systems based on a rigorous formalization of life as an information-theoretic phenomenon.
+Solving the so-called, "outer alignment problem" (refered to hence as simply "alignment") is a critical step in mitigating the greatest existential risks currently facing human civilization including environmental degredation, war, and artificial intelligence. I propose a path to achieve alignment with living systems based on a rigorous formalization of life as an information-theoretic phenomenon.
 
 I argue that humans have evolved a flawed approximation to some ideal utility function which drives their behavior. That imperfect utility function varies from human to human and even over time within the same human causing conflict. Thus, the key to achieving alignment with humanity is to derive that ideal utility function[^1]. 
 
-I claim that the evolution of such a utility function must have ultimately been driven by the Darwinian criteria, "survival of the fittest". In other words, that which has the best ability to propogate life. It makes sense, then, that the ideal utility function to give an agent to maximize the Darwinian criteria is the criteria itself: maximize the propogation of life. Hence, achieving alignment entails formalizing the phenomenon known as life. 
+I claim that the evolution of such a utility function must have ultimately been driven by the Darwinian criteria: survival of the fittest. In other words: that which has the best ability to propogate life. It makes sense that the ideal utility function to give an agent to maximize the Darwinian criteria is the criteria itself: maximize the propogation of life. In order to express that as a mathematical utility function, we must formalize the phenomenon known as life. 
 
-
-
-
-[^1]: Implementing the solution by literally changing peoples' minds seems fraught with moral concerns. If some fascists decide to screw with peoples' brains based on my writings, I, uh... I'm sorry.
+[^1]: Implementing the solution by literally changing peoples' minds seems fraught with moral concerns. If some fascists decide to screw with peoples' brains based on my writings, I apologize.
 
 # Background
 ## Motivation
