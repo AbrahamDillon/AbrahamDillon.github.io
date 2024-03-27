@@ -8,7 +8,7 @@ I argue that humans have evolved a flawed approximation to some ideal utility fu
 
 I claim that the evolution of such a utility function must have ultimately been driven by the Darwinian criteria: survival of the fittest. In other words: that which has the best ability to propogate life. It makes sense that the ideal utility function to give an agent to maximize the Darwinian criteria is the criteria itself: maximize the propogation of life. In order to express that as a mathematical utility function, we must formalize the phenomenon known as life. 
 
-[^1]: Implementing the solution by literally changing peoples' minds seems fraught with moral concerns. If some fascists decide to screw with peoples' brains based on my writings, I apologize.
+[^1]: Implementing the solution by literally changing peoples' minds seems fraught with moral concerns. If some fascists decide to use my ideas to justify screw with peoples' brains, I apologize profusely. That's not my intent.
 
 # Background
 ## Motivation
