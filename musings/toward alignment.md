@@ -6,7 +6,7 @@ Solving the so-called "outer alignment problem" (refered to as just "alignment")
 
 I argue that humans have evolved a flawed approximation to some ideal utility function which drives their behavior. That imperfect utility function varies from human to human and even over time within the same human causing conflict. Thus, the key to achieving alignment with humanity is to derive that ideal utility function[^1]. 
 
-I claim that the evolution of such a utility function must have ultimately been driven by the Darwinian criteria, "survival of the fittest". In otherwords, that which has the best ability to propogate life. It makes sense, then, that the ideal utility function to give an agent to maximize the darwinian criteria is the criteria itself: maximize the propogation of life. Hence, achieving alignment entails formalizing the phenomenon known as life. 
+I claim that the evolution of such a utility function must have ultimately been driven by the Darwinian criteria, "survival of the fittest". In other words, that which has the best ability to propogate life. It makes sense, then, that the ideal utility function to give an agent to maximize the darwinian criteria is the criteria itself: maximize the propogation of life. Hence, achieving alignment entails formalizing the phenomenon known as life. 
 
 
 
