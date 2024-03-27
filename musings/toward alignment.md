@@ -2,11 +2,16 @@
 By Abe Dillon
 
 # Abstract 
-In this article, I propose a path to achieve alignment with living systems based on a rigorous formalization of life as an information-theoretic phenomenon.
+Solving the so-called "outer alignment problem" (refered to as just "alignment") is a critical step in mitigating the greatest existential risks currently facing human civilization including environmental degredation, war, and artificial intelligence. I propose a path to achieve alignment with living systems based on a rigorous formalization of life as an information-theoretic phenomenon.
 
-I argue that the problem of aligning the goal of one agent to another extends well beyond the narrow scope of artificial agents and that misalignment among humans, human collectives (states, corporations, economic systems, etc.), and other organisms poses an existential threat to human society of roughly the same magnitude (severe) and urgency (very) regardless of any further development of artificial intelligence. I claim that misalignment among humans stems largely from variations in the objective function of each human which imperfectly approximates some ideal objective and that achieving alignment requires deriving said ideal objective. In order to derive such an objective (what a human ought to ought to do) one must find a way to circumvent Hume's law. I reason that abiogenesis must be what I call a "trans-Humean" process (pardon the tongue-in-cheek naming) since, by definition, it gives rise to goal-driven agents (organisms) where before there were none. I then propose that the goal of an organism approximates an ideal goal which can be derived from a formalization of the phenomenon of life.
+I argue that humans have evolved a flawed approximation to some ideal utility function which drives their behavior. That imperfect utility function varies from human to human and even over time within the same human causing conflict. Thus, the key to achieving alignment with humanity is to derive that ideal utility function[^1]. 
 
-For instance, one can roughly outline the objective function of a human as some reconciliation of the needs of an individual (e.g. Mazlo's hierarchy) against some morals (e.g. ideals based on the foundations of morality as described in the field of moral psychology). It's clear that base needs like securing nutrients and procreating serve a general purpose of continuing life. Morality, on the other hand; largely serves to promote cooperation which is a key survival strategy. One which biology has converged upon numerous times. There are mechanisms in most multi-cellular organisms, for instance; that act as a set of "morals" that constrain the each cell's behaviors for the sake of cooperation. When those mechanisms break down, an individual cell can act as though it just became infatuated with Ayn Rand's "philosophy" of "rational egoism", believeing that behavior which serves the cell's own self-interest is paramount over the needs of the collective. The cell will consume resources without constraint, proliferate without constraint, and generally indulge in toxic, selfish behavior. We call such cells "cancer".
+I claim that the evolution of such a utility function must have ultimately been driven by the Darwinian criteria, "survival of the fittest". In otherwords, that which has the best ability to propogate life. It makes sense, then, that the ideal utility function to give an agent to maximize the darwinian criteria is the criteria itself: maximize the propogation of life. Hence, achieving alignment entails formalizing the phenomenon known as life. 
+
+
+
+
+[^1]: Implementing the solution by literally changing peoples' minds seems fraught with moral concerns. If some fascists decide to screw with peoples' brains based on my writings, I, uh... I'm sorry.
 
 # Background
 ## Motivation
@@ -14,18 +19,20 @@ The alignment problem is typically framed in the context of artificial intellige
 
 The general alignment problem is not just about the hypothetical threat posed by artificial intelligence. It's at the heart of every ideological conflict and it's the reason Global Capitalism externalizes the cost of human suffering and ecological degredation. Whenever perverse incentives yield unwanted behavior in an intelligent system, whether it be addiction in the human brain or regulatory capture in a government, a poorly defined and/or implemented goal is likely to blame resulting in misalgnment.
 
-## Definition
-What the problem is. 
-
+## Definition 
+Clarify all the important terms 
 ## Criteria 
-Provide "tests" for acessing success
+Provide "tests" for acessing success 
 
-# Proposal
+# Proposal 
 
-# Discussion
-## Results
-Evaluate the proposal against the defined criteria
-## Insights
-## Open Questions
+# Discussion 
+## Results 
+How does the proposal satisfy the criteria?
+## Insights 
+Discuss interesting consequences of the proposal beyond the initial motivation.
+## Open Questions 
+What are some points deliberately left unanswered and why?
 
 # Conclusion 
+Intended for cursory digestion like most papers.
