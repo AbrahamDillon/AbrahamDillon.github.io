@@ -2,7 +2,7 @@
 By Abe Dillon
 
 # Abstract 
-Solving the so-called, "outer alignment problem" (refered to hence as simply "alignment") is a critical step in mitigating the greatest existential risks currently facing human civilization including environmental degredation, war, and artificial intelligence. I propose a path to achieve alignment with living systems based on a rigorous formalization of life as an information-theoretic phenomenon.
+The [alignment problem](https://www.wikiwand.com/en/AI_alignment) is central to some of the greatest existential risks currently facing civilization including environmental degredation, war, and artificial intelligence incongruence. I propose a path to achieve alignment (specifically among living systems) based on a rigorous formalization of life as an information-theoretic phenomenon. 
 
 I argue that humans have evolved a flawed approximation to some ideal utility function which drives their behavior. That imperfect utility function varies from human to human and even over time within the same human causing conflict. Thus, the key to achieving alignment with humanity is to derive that ideal utility function[^1]. 
 
