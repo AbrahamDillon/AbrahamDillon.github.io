@@ -24,6 +24,27 @@ We can imagine another function, an optimizer we'll call Λ, which takes a probl
 
    The valid domain of Λ is the set of all valid_problems ∈ problems :: ∀ problem ∈ valid_problems : problem(Λ(problem)) ∈ 𝑅
 
+That is to say: the valid domain of Λ is the set of all problems for which Λ produces a valid solution. 
+
+It might seem obvious to define the intelligence of Λ with respect to some subset of the valid domain of Λ as some aggregation (e.g. the average) of the reward yielded by the solutions produced by Λ over that subset, however; equating the term "intelligence" to some metric of optimality has three problems. One is that we end up with a term with little utility since it's basically a synonym for an already established term: optimality. The second is that each problem may define its output in different and incompatible units that can't be so trivially aggregated.
+
+Example #2
+... problems with different units ...
+
+We will eventually want to aggregate rewards for disparate problems, so we'll take a two-pronged approach. First, we don't wan't to overly constrain the definition of what is considered a problem, so we'll only add one caveat that each problem be associated with some unit for its reward. Second, we'll imagine some value() function which converts any tuple of a real-number and a unit to some other, equivalent real-number in a common unit we'll call 'common value units' (CVUs for short). 
+
+4) ... value function ...
+
+The third problem with defining intelligence as a simple aggregation of rewards is that it implies that the most intelligent algorithm for any given problem is to use brute force, which seems to starkly contradict our common intuition regarding the term "intelligence"
+
+Example #3
+... brute force optimizer ...
+
+A more useful formalization should include some measure of the resources required by the optimizer to produce each solution. Let's imagine some function resources() which takes an optimizer and a problem, then returns a vector of resources required to produce the solution to said problem. If each value in the vector has a corresponding unit, then we can convert all the resource metrics to CVUs with our value() function and add them up to get the total cost of producing the solution. Then we can subtact the total cost from the value of the reward yielded by the solution to get the net value of the solution:
+
+5) ... net value ...
+
+Example #4
 
 
 
