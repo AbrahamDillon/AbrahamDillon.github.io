@@ -9,7 +9,7 @@ To formalize this concept, we must first formalize the terms "problem" and "solu
 
    Find: an element x0 ∈ A such that f(x0) ≥ f(x) for all x ∈ A.
 
-However, while the optimization problem is explicitly to find an input that maximizes the given function, we will subtly re-word expression 1 with more descriptive notation and call the function itself the problem, then define optimality in terms of inputs to the function which we'll call solutions:
+However, while the optimization problem is explicitly to find an input that maximizes the given function, I'll subtly re-word expression 1 with more descriptive notation and call the function itself the problem, then define optimality in terms of inputs to the function which we'll call solutions:
 
 2) Given: a function, problem : valid_solutions → rewards, from some set of valid_solutions to a real-valued reward
 
