@@ -1,4 +1,4 @@
-Artificial Irrlevance
+Artificial Irrlevance 
 by Abe Dillon
 
 The word, "artificial", in the name of the feild of artificial intelligence (AI) implies it to be a discipline of engineering, however; research and development in the feild also covers science, math, and philosophy. In those areas, the specification of a system's origin is largely irrelvant. In which case, including it risks confusion and restricting our perspective on the subject.
