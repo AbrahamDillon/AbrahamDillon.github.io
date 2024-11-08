@@ -4,6 +4,6 @@ In my writing on this subject, I try to avoid the word "artificial" where it is 
 
 One such somewhat problematic term is the mathematical concept of a Turing machine. It's often colloquially understood that the term "machine" implies artificiality even though, strictly speaking; it doesn't. Biological systems are as much machines as anything constructed by humans. There's nothing magical about meat or plant or fungus tissue that makes it non-mechanical. This basic quirk of language can cause a lot of confusion.
 
-The Turing machine is actually about as abstract a mathematical concept as one can imagine, yet it also bares a close resemblance to physical computers. {talk about the impact on thought experiments like the chinese room or the china brain}
+The Turing machine is actually about as abstract a mathematical concept as one can imagine, yet it also happens to bare a close resemblance to digital computers. {talk about the impact on thought experiments like the chinese room or the china brain}
 
 [1] As of this writing, the Wikipedia article on the alignment problem is titled, "AI Alignment". 
