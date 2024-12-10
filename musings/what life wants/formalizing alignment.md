@@ -17,7 +17,8 @@ The word 'minimal' in the generalized definition hints that the alignment proble
 
 The two agents are considered "rational" according to the definition:
 
--- An agent that acts so as to maximize the expected value of a performance measure based on past experience and knowledge.[Artificial Intelligence: A Modern Approach]
+-- An agent that acts so as to maximize the expected value of a performance measure based on past experience and knowledge. 
+[Artificial Intelligence: A Modern Approach]
   
 In this case, the performance measure (not to be confused with the alignment measure called "discord" which we have yet to formalize) for each agent is provided by its respective goal and the goals are generally functions of the state of the environment. That means the agents are both trying to manipulate the state of the environment according to their respective goals which may put them in contention. If the goal of agent A is to maximize the number of paperclips in the environment and the goal of agent B is to minimize the number of paperclips in the environment, the two agents are highly unaligned. They are trying to drive the state of the environment in conflicting directions.
 
