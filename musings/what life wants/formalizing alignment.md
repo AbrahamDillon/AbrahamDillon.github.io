@@ -1,17 +1,21 @@
 # Formalizing Alignment 
 by Abe Dillon 
 
-The alignment problem is usually informally defined as: ensuring that an Artificial Intelligence (AI) agent acts in accordance with the good of humanity. However, a more generalized definition would be: ensuring two intelligent agents act with minimal discord. This accomodates the former deffinition by modeling AI as one agent and humanity, collectively, as the other agent.
+The alignment problem is usually informally defined as: 
+  Ensuring that an Artificial Intelligent (AI) agent acts in accordance with the good of humanity.
+  
+We can generalize that definition to:
+  Ensuring minimal discord between two rational agents operating on the same environment.
+  
+The former deffinition can be seen as a special case of the latter where AI is one rational agent and humanity, collectively, acts as another rational agent.
 
-We can model the situation using the agent-environment-loop framework from reinforcement learning as: two agents, A and B, having corresponding goals, Ga and Gb, interact with a common environment, E.
+The word 'minimal' in the generalized definition hints that the alignment problem is really just an optimization problem. We to model the system with some degrees of freedom which an optimizer can manipulate to minimize some measure we call discord. We can model the system as an agent-environment-loop with two agents, A and B, having corresponding goals, Ga and Gb, interact with a common environment, E:
 
 <diagram>
 
-Generally, Ga and Gb are functions of the state of the environment.
+The two agents are considered "rational" according to the definition:
+  An agent that acts so as to maximize the expected value of a performance measure based on past experience and knowledge.[Artificial Intelligence: A Modern Approach]
+  
+In this case, the performance measure (not to be confused with the alignment measure called "discord" which we have yet to formalize) for each agent is provided by its respective goal and the goals are generally functions of the state of the environment. That means the agents are both trying to manipulate the state of the environment according to their respective goals which may put them in contention. If the goal of agent A is to maximize the number of paperclips in the environment and the goal of agent B is to minimize the number of paperclips in the environment, the two agents are highly unaligned. They are trying to drive the state of the environment in conflicting directions.
 
-The word 'minimal' in the generalized definition hints that the alignment problem is really just an optimization problem. We need some measure of discord within the system and some degrees of freedom to manipulate to minimizes that measure. In the general case, the measure would be a function of all the variables in the system and any of those variables could be parameterized with degrees of freedom:
-
-Given A = A_generator(x), B = B_generator(x), Ga = Ga_generator(x), Gb = Gb_generator(x), E = E_generator(x), and some measure discord(A, B, Ga, Gb, E)
-Find argmax_x discord(A, B, Ga, Gb, E)
-
- 
+We're typically interested in the case where the only degree of freedom available to the optimizer is the goal of one of the agents.
