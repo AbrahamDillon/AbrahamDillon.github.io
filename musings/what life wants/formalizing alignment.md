@@ -11,7 +11,7 @@ The former deffinition can be seen as a special case of the latter where AI is o
 
 The word 'minimal' in the generalized definition hints that the alignment problem is really just an optimization problem. We to model the system with some degrees of freedom which an optimizer can manipulate to minimize some measure we call discord. We can model the system as an agent-environment-loop with two agents, A and B, having corresponding goals, Ga and Gb, interact with a common environment, E:
 
-<diagram>
+//diagram
 
 The two agents are considered "rational" according to the definition:
   An agent that acts so as to maximize the expected value of a performance measure based on past experience and knowledge.[Artificial Intelligence: A Modern Approach]
